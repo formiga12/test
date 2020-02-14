@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, movies
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1, FM HOT PELICULAS
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b800000_slesp.m3u8
+#EXTINF:-1,Paramount
+http://paramount.live.flumotion.com/live/playlist.m3u8?ixtlaarreola.m3u8
+#EXTINF:-1, luna tv
+http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+#EXTINF:-1, Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1, orbit tv
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+#EXTINF:-1, BOING NIÑOS
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1, MTV 
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
+#EXTINF:-1, BLUE BLOODS
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1, CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1, DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1, TS
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1, TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:-1, SW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, 7 TELE
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1, HD GALICIA
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1, LA E
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:-1, RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+#EXTINF:-1, RADIOM20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:-1, TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1, LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8?ixtlaarreola.m3u8
+#EXTINF:0, Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:.1,MULTIVISION
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+#EXTINF:-1,COLOMBIA TELEANTIOQUIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1,COLOMBIA TELECAFE
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,COLOMBIA TELEMEDELLIN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,COLOMBIA Mi Musica | HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1, TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,NEX TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1,TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF: -1, LATINO:La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF: -1, LATINO:Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
