@@ -1,19 +1,7 @@
 #EXTM3U
-#EXTINF:-1,MUSICA: Djing Classic
-https://player.vimeo.com/external/135479002.hd.mp4 ?s=11d941f380461d5a81ad920465c5465f
-#EXTINF:-1,MUSICA: Djing Electro Rock
-https://vod-progressive.akamaized.net/exp=1585348543~acl=%2A%2F400785159.mp4%2A~hmac=915a43576556c5d3b670eca4b72d70630e1a3b13fd27dae8153b59e0b8ed2694/vimeo-prod-skyfire-std-us/01/2095/5/135479002/400785159.mp4
-#EXTINF:-1,MUSICA: Djing French touch
-https://player.vimeo.com/external/390497693.sd.mp4?s=a17140d55cabe82fd8be3d5e338deecd186c94cf&profile_id=164
-#EXTINF:-1,MUSICA: Djing Ibiza
+#EXTINF:-1 group-title="ESPORTES",Canal 1
 https://vod-progressive.akamaized.net/exp=1585348545~acl=%2A%2F1651264836.mp4%2A~hmac=2c3db9a6ee0586bdfdbd9158c3875b4db0ded56164004209c78ce75b0c6380ae/vimeo-prod-skyfire-std-us/01/3099/15/390497693/1651264836.mp4
-#EXTINF:-1,MUSICA: DJIng Ibiza HD
+#EXTINF:-1 group-title="ESPORTES",Canal 2
 https://player.vimeo.com/external/398256859.hd.mp4?s=1eff470e4a17dd614fc2237c4ab51af8cb6cc4ce&profile_id=174
-#EXTINF:-1,MUSICA: Djing Karaoke
-https://vod-progressive.akamaized.net/exp=1585348546~acl=%2A%2F1696712097.mp4%2A~hmac=0dca92733fba6cfc92536b3f4be3b9349c2e07b66bc0c077807be08616d9ae90/vimeo-prod-skyfire-std-us/01/4651/15/398256859/1696712097.mp4
-#EXTINF:-1,MUSICA: Djing Summer Vibes
+#EXTINF:-1 group-title="ESPORTES",Canal 3
 https://vod-progressive.akamaized.net/exp=1585348547~acl=%2A%2F1680530989.mp4%2A~hmac=e2617c6ea63b5c6a77791ff0f13ddcf3b3040ca73ca7d000c530139f301803c4/vimeo-prod-skyfire-std-us/01/4091/15/395456435/1680530989.mp4
-#EXTINF:-1,MUSICA: Djing TV
-https://vod-progressive.akamaized.net/exp=1585348546~acl=%2A%2F1696712097.mp4%2A~hmac=0dca92733fba6cfc92536b3f4be3b9349c2e07b66bc0c077807be08616d9ae90/vimeo-prod-skyfire-std-us/01/4651/15/398256859/1696712097.mp4
-#EXTINF:-1,MUSICA: Djing Underground
-https://vod-progressive.akamaized.net/exp=1585348628~acl=%2A%2F1684003587.mp4%2A~hmac=dfda24e2755a79acdf97845d3fd9fce5347567215343fe3d4005d2e1acff264d/vimeo-prod-skyfire-std-us/01/4207/15/396036988/1684003587.mp4
